@@ -9,7 +9,7 @@ load_dotenv()
 
 # --- Page Config ---
 st.set_page_config(
-    page_title="HishoGames AI Support",
+    page_title="H-Tech Games AI Support",
     page_icon="🎮",
     layout="centered"
 )
