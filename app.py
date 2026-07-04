@@ -278,7 +278,7 @@ def chat(user_input: str, conversation_history: list, collection) -> tuple:
 # --- Streamlit UI ---
 
 # Header
-st.markdown("# 🎮 HishoGames")
+st.markdown("# 🎮 H-Tech Games")
 st.markdown("### AI Customer Support")
 st.markdown("---")
 
